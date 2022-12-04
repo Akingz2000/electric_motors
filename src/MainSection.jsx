@@ -99,8 +99,8 @@ const MainSection = () => {
 
             <section className="first-section__holder">
 
-                 <h2 data-aos = "fade-down" className="first-section__h2">dejaypro-cars</h2>
-                 <p data-aos = "fade-right" className="first-section__p">number one leading cars sales company</p>
+                 <h2 data-aos = "fade-down" className="first-section__h2">EV CONNEXT</h2>
+                 <p data-aos = "fade-right" className="first-section__p">number one leading cars rental company</p>
 
             </section>
       </div>
@@ -115,7 +115,7 @@ const MainSection = () => {
 
          <p data-aos = "fade-down"  className="second-section__p">
 
-         We're your one-stop shop for buying and selling your car. Get matched to your perfect car, or sell one swiftly.
+         We're your one-stop shop for renting of cars. Get matched to your perfect car swiftly.
 
          </p>
 
@@ -132,10 +132,10 @@ const MainSection = () => {
                       shop
                     </h2>
                     <p className="second-section__1-div-p">
-                    Find cars for sale, local dealers, and advice. Also, our price-badging and price-drop notifications keep you informed of potential deals.
+                    Find cars for rental, local dealers, and advice. Also, our price-badging and price-drop notifications keep you informed of potential deals.
                     </p>
                     <a href="#" className="second-section__button">
-                    Find cars for sale
+                    Find cars for rental
                     </a>
 
                   </div>
@@ -155,7 +155,7 @@ const MainSection = () => {
                     Research
                     </h2>
                     <p className="second-section__1-div-p">
-                    Find cars for sale, local dealers, and advice. Also, our price-badging and price-drop notifications keep you informed of potential deals.
+                    Find cars for rental, local dealers, and advice. Also, our price-badging and price-drop notifications keep you informed of potential deals.
 
 
                     </p>
@@ -199,7 +199,7 @@ const MainSection = () => {
                     Sell
                     </h2>
                     <p className="second-section__1-div-p">
-                    Find cars for sale, local dealers, and advice. Also, our price-badging and price-drop notifications keep you informed of potential deals.
+                    Find cars for rental, local dealers, and advice. Also, our price-badging and price-drop notifications keep you informed of potential deals.
 
 
                     </p>
@@ -221,7 +221,7 @@ const MainSection = () => {
                     Service & Repair
                     </h2>
                     <p className="second-section__1-div-p">
-                    Find cars for sale, local dealers, and advice. Also, our price-badging and price-drop notifications keep you informed of potential deals.
+                    Find cars for rental, local dealers, and advice. Also, our price-badging and price-drop notifications keep you informed of potential deals.
 
 
                     </p>
@@ -243,7 +243,7 @@ const MainSection = () => {
                     Certified Pre-Owned
                     </h2>
                     <p className="second-section__1-div-p">
-                    Find cars for sale, local dealers, and advice. Also, our price-badging and price-drop notifications keep you informed of potential deals.
+                    Find cars for rental, local dealers, and advice. Also, our price-badging and price-drop notifications keep you informed of potential deals.
                     </p>
                     <a href="#" className="second-section__button">
                     Explore CPO
@@ -330,7 +330,7 @@ const MainSection = () => {
                  <section className="fourth-section__holder">
 
                    <h2 className="fourth-section__h2">
-                     products coming soon
+                     products available
                    </h2>
 
                    <div className="fourth-section__main">
