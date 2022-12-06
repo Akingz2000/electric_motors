@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/electric_motors/static/css/main.a89d6b5c.css",
-    "main.js": "/electric_motors/static/js/main.2cac8504.js",
+    "main.js": "/electric_motors/static/js/main.b4472eb4.js",
     "static/media/2016-Chevrolet-Volt-009.jpg": "/electric_motors/static/media/2016-Chevrolet-Volt-009.78e5cde3552188726a5d.jpg",
     "static/media/2022-ford-focus-st.jpg": "/electric_motors/static/media/2022-ford-focus-st.c67bc9bd9ed797d233b8.jpg",
     "static/media/IMG_3241.JPG": "/electric_motors/static/media/IMG_3241.b87e04cb24de86b093ec.JPG",
     "static/media/IMG_3236.JPG": "/electric_motors/static/media/IMG_3236.723593ce8f8668aeaff8.JPG",
     "index.html": "/electric_motors/index.html",
     "main.a89d6b5c.css.map": "/electric_motors/static/css/main.a89d6b5c.css.map",
-    "main.2cac8504.js.map": "/electric_motors/static/js/main.2cac8504.js.map"
+    "main.b4472eb4.js.map": "/electric_motors/static/js/main.b4472eb4.js.map"
   },
   "entrypoints": [
     "static/css/main.a89d6b5c.css",
-    "static/js/main.2cac8504.js"
+    "static/js/main.b4472eb4.js"
   ]
 }
